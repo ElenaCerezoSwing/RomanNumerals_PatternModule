@@ -1,0 +1,14 @@
+{
+  "name": "romannumerals",
+  "version": "1.0.0",
+  "description": "programm to convert numbers to roman numerals",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "ele",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^22.4.4"
+  }
+}
