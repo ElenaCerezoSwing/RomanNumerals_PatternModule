@@ -1,17 +1,6 @@
 var RomanNumerals = function () { };
 
 var numerals = [
-    // { value: 4, numeral: "IV" },
-    // { value: 4, numeral: "IV" },
-    // { value: 4, numeral: "IV" },
-    // { value: 4, numeral: "IV" },
-    // { value: 4, numeral: "IV" },
-    // { value: 4, numeral: "IV" },
-    // { value: 4, numeral: "IV" },
-    // { value: 4, numeral: "IV" },
-    // { value: 4, numeral: "IV" },
-    // { value: 4, numeral: "IV" },
-    // { value: 4, numeral: "IV" },
     { value: 1000, numeral: "M" },
     { value: 500, numeral: "D" },
     { value: 100, numeral: "C" },
