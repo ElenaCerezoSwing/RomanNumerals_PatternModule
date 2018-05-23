@@ -1,4 +1,6 @@
-const Application = require("../js/RomanNumerals");
+// const Application = require("../js/RomanNumerals");
+
+import Application from "./RomanNumerals";
 let app;
 
 beforeEach(function () {

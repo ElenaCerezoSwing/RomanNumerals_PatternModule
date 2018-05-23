@@ -32,6 +32,7 @@ function Application() {
 
 }
 
-if (typeof (module) != undefined) {
-    module.exports = Application;
-}
+export default Application;
+// if (typeof (module) != undefined) {
+//     module.exports = Application;
+// }
